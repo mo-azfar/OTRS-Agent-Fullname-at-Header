@@ -6,8 +6,8 @@
 
 			[% RenderBlockEnd("DebugRTLButton") %]
 			(+) <font color="red">[% Translate("You are logged in as") | html %] [% Env("UserFullname") | html %]</font>
-			</ul>
-		</div>
+					</ul>
+				</div>
 		
   
 [![download.png](https://i.postimg.cc/NM766r32/download.png)](https://postimg.cc/vgTxMDHG)  
